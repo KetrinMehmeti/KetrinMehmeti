@@ -21,4 +21,5 @@ Beyond my academic work, I'm particularly interested in applying my analytical a
 
 Feel free to reach out if you'd like to connect, exchange ideas, or discuss potential collaborations.
 
-[LinkedIn: Ketrin Mehmeti](www.linkedin.com/in/ketrin-mehmeti-7682542a9)
+[LinkedIn](https://www.linkedin.com/in/ketrin-mehmeti-7682542a9/)
+[Email](mailto:ketrinmehmeti@gmail.com)
