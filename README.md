@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ketrin!
 
-<!--
-**KetrinMehmeti/KetrinMehmeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently completing my MSc in Information Bioengineering at Politecnico di Milano, where I've developed a strong interest in machine learning, data science, and quantitative research.
 
-Here are some ideas to get you started:
+I enjoy working at the intersection of programming, statistical analysis, and artificial intelligence, exploring how computational methods can be used to understand complex data and solve real-world problems.
+---
+## What I'm currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current academic research focuses on developing and evaluating machine learning approaches for EEG-based prediction, combining statistical modeling, data analysis, and computational experimentation.
+
+Beyond my academic work, I'm particularly interested in applying my analytical and computational background to challenges beyond biomedical research, combining statistical reasoning, machine learning, and programming to develop reliable, data-driven solutions.
+---
+## Tools & Technologies
+
+**Programming & Data Analysis:** Python, R, MATLAB, SQL, C, C++
+
+**Deep Learning:** Hugging Face, Pythorch, TensorFlow, Keras, LangChain, LangGraph
+
+**Development Tools:** Git/GitHub, AWS, Streamlit
+---
+## Let's Connect
+
+Feel free to reach out if you'd like to connect, exchange ideas, or discuss potential collaborations.
+
+[LinkedIn: Ketrin Mehmeti](www.linkedin.com/in/ketrin-mehmeti-7682542a9)
