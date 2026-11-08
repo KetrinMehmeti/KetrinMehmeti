@@ -2,7 +2,7 @@
 
 I'm currently completing my MSc in Information Bioengineering at Politecnico di Milano, where I've developed a strong interest in machine learning, data science, and quantitative research.
 
-I enjoy working at the intersection of programming, statistical analysis, and artificial intelligence, exploring how computational methods can be used to understand complex data and solve real-world problems.
+What I enjoy most is the process of turning complex problems into something I can understand and eventually solve through code and data. I'm naturally curious, enjoy learning new technologies, and particularly appreciate projects that challenge me to think critically, experiment with different approaches, and continuously improve my work.
 
 ## What I'm currently working on
 
@@ -16,6 +16,12 @@ Beyond my academic work, I'm particularly interested in applying my analytical a
 **Deep Learning:** Hugging Face, Pythorch, TensorFlow, Keras, LangChain, LangGraph
 
 **Development Tools:** Git/GitHub, AWS, Streamlit
+
+**CAD & 3D Modeling:** AutoCAD, Autodesk Fusion 360
+
+## Beyond the Code
+
+I've always loved art and design, but renovating my house myself sparked a new passion for hands-on projects. From space planning and 3D modeling with AutoCAD and Fusion 360 to taking on different aspects of the renovation, I found myself exploring new techniques, working with unfamiliar tools, and learning by doing. I especially enjoy the process of figuring things out and bringing my ideas to life.
 
 ## Let's Connect
 
